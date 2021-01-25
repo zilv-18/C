@@ -1,0 +1,2 @@
+D:\C语言课堂作业\game\Debug\game.exe
+D:\C语言课堂作业\game\Debug\game.pdb
